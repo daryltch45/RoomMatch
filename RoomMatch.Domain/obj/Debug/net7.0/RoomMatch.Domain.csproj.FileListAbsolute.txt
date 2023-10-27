@@ -1,0 +1,12 @@
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.Domain\bin\Debug\net7.0\RoomMatch.Domain.deps.json
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.Domain\bin\Debug\net7.0\RoomMatch.Domain.dll
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.Domain\bin\Debug\net7.0\RoomMatch.Domain.pdb
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.AssemblyInfoInputs.cache
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.AssemblyInfo.cs
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.dll
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\refint\RoomMatch.Domain.dll
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.pdb
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\ref\RoomMatch.Domain.dll
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.csproj.AssemblyReference.cache

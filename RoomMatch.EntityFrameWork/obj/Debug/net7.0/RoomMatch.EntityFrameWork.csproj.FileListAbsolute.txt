@@ -1,0 +1,17 @@
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\bin\Debug\net7.0\RoomMatch.EntityFrameWork.deps.json
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\bin\Debug\net7.0\RoomMatch.EntityFrameWork.runtimeconfig.json
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\bin\Debug\net7.0\RoomMatch.EntityFrameWork.dll
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\bin\Debug\net7.0\RoomMatch.EntityFrameWork.pdb
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\bin\Debug\net7.0\RoomMatch.Domain.dll
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\bin\Debug\net7.0\RoomMatch.Domain.pdb
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\obj\Debug\net7.0\RoomMatch.EntityFrameWork.csproj.AssemblyReference.cache
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\obj\Debug\net7.0\RoomMatch.EntityFrameWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\obj\Debug\net7.0\RoomMatch.EntityFrameWork.AssemblyInfoInputs.cache
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\obj\Debug\net7.0\RoomMatch.EntityFrameWork.AssemblyInfo.cs
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\obj\Debug\net7.0\RoomMatch.EntityFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\obj\Debug\net7.0\RoomMatch.EntityFrameWork.csproj.CopyComplete
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\obj\Debug\net7.0\RoomMatch.EntityFrameWork.dll
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\obj\Debug\net7.0\refint\RoomMatch.EntityFrameWork.dll
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\obj\Debug\net7.0\RoomMatch.EntityFrameWork.pdb
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\obj\Debug\net7.0\RoomMatch.EntityFrameWork.genruntimeconfig.cache
+C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.EntityFrameWork\obj\Debug\net7.0\ref\RoomMatch.EntityFrameWork.dll
