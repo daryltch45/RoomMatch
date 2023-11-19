@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.WPF\obj\Debug\net7.0-windows\
+C:\Users\jeanb\source\RoomMatch\RoomMatch.WPF\obj\Debug\net7.0-windows\
 RoomMatch.WPF
 none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.WPF\App.xaml
+C:\Users\jeanb\source\RoomMatch\RoomMatch.WPF\App.xaml
 3-355303058
 
 132065705488
-2341469336239
+234954629320
 Views\LoginView.xaml;Views\MainWindow.xaml;Views\RegisterView.xaml;
 
 False

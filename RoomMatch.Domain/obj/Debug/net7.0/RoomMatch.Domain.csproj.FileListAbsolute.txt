@@ -10,3 +10,15 @@ C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\refint
 C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.pdb
 C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\ref\RoomMatch.Domain.dll
 C:\Users\SESA636891\Documents\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.csproj.AssemblyReference.cache
+C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\bin\Debug\net7.0\RoomMatch.Domain.deps.json
+C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\bin\Debug\net7.0\RoomMatch.Domain.dll
+C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\bin\Debug\net7.0\RoomMatch.Domain.pdb
+C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.csproj.AssemblyReference.cache
+C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.AssemblyInfoInputs.cache
+C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.AssemblyInfo.cs
+C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.dll
+C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\refint\RoomMatch.Domain.dll
+C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.pdb
+C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\ref\RoomMatch.Domain.dll
