@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.WPF\\RoomMatch.WPF.csproj": {}
+    "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.WPF\\RoomMatch.WPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj": {
+    "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj",
         "projectName": "RoomMatch.Domain",
-        "projectPath": "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj",
-        "packagesPath": "C:\\Users\\SESA636891\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.Domain\\obj\\",
+        "projectPath": "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj",
+        "packagesPath": "C:\\Users\\jeanb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SESA636891\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jeanb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,21 +61,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.EntityFrameWork\\RoomMatch.EntityFrameWork.csproj": {
+    "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.EntityFrameWork\\RoomMatch.EntityFrameWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.EntityFrameWork\\RoomMatch.EntityFrameWork.csproj",
+        "projectUniqueName": "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.EntityFrameWork\\RoomMatch.EntityFrameWork.csproj",
         "projectName": "RoomMatch.EntityFrameWork",
-        "projectPath": "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.EntityFrameWork\\RoomMatch.EntityFrameWork.csproj",
-        "packagesPath": "C:\\Users\\SESA636891\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.EntityFrameWork\\obj\\",
+        "projectPath": "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.EntityFrameWork\\RoomMatch.EntityFrameWork.csproj",
+        "packagesPath": "C:\\Users\\jeanb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.EntityFrameWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SESA636891\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jeanb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,8 +89,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj": {
-                "projectPath": "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj"
+              "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj": {
+                "projectPath": "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj"
               }
             }
           }
@@ -146,21 +146,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.WPF\\RoomMatch.WPF.csproj": {
+    "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.WPF\\RoomMatch.WPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.WPF\\RoomMatch.WPF.csproj",
+        "projectUniqueName": "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.WPF\\RoomMatch.WPF.csproj",
         "projectName": "RoomMatch.WPF",
-        "projectPath": "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.WPF\\RoomMatch.WPF.csproj",
-        "packagesPath": "C:\\Users\\SESA636891\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.WPF\\obj\\",
+        "projectPath": "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.WPF\\RoomMatch.WPF.csproj",
+        "packagesPath": "C:\\Users\\jeanb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.WPF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SESA636891\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jeanb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -174,11 +174,11 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj": {
-                "projectPath": "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj"
+              "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj": {
+                "projectPath": "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj"
               },
-              "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.EntityFrameWork\\RoomMatch.EntityFrameWork.csproj": {
-                "projectPath": "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.EntityFrameWork\\RoomMatch.EntityFrameWork.csproj"
+              "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.EntityFrameWork\\RoomMatch.EntityFrameWork.csproj": {
+                "projectPath": "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.EntityFrameWork\\RoomMatch.EntityFrameWork.csproj"
               }
             }
           }
@@ -221,7 +221,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

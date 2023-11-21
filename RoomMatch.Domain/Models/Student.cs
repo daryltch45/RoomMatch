@@ -10,8 +10,56 @@ namespace RoomMatch.Domain.Models
   {
     public string Firstname
     {
+<<<<<<< Updated upstream
       get { return Get<string>(); }
       set { Set<string>(value); }
+=======
+        //ToDo: can we group properties like firstname, Lastname, username and age in the class DomainObject??
+        public string Firstname
+        {
+            get { return Get<string>(); }
+            set { Set<string>(value); }
+        }
+
+        public string Lastname
+        {
+            get { return Get<string>(); }
+            set { Set<string>(value); }
+        }
+
+        public int Age
+        {
+            get { return Get<int>(); }
+            set { Set<int>(value); }
+        }
+
+        //represents the gender of the Student
+        //May be we can put the gender property in a enum{male, female, others}
+        public string Gender
+        {
+            get { return Get<string>(); }
+            set { Set<string>(value); }
+        }
+
+        //represents the field of study or specialization that the student is pursuing(ex: computer science)
+        public string Major
+        {
+            get { return Get<string>(); }
+            set { Set<string>(value); }
+        }
+
+        // ToDo: We can add more properties as needed later...
+
+        // Constructor to initialize these properties 
+        public Student(string firstname, string lastname, int age, string gender, string major)
+        {
+            Firstname = firstname;
+            Lastname = lastname;
+            Age = age;
+            Gender = gender;
+            Major = major;
+        }
+>>>>>>> Stashed changes
     }
     public string Lastname
     {

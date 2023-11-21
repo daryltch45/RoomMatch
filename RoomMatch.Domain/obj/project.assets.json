@@ -38,19 +38,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SESA636891\\.nuget\\packages\\": {}
+    "C:\\Users\\jeanb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj",
       "projectName": "RoomMatch.Domain",
-      "projectPath": "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj",
-      "packagesPath": "C:\\Users\\SESA636891\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SESA636891\\Documents\\RoomMatch\\RoomMatch.Domain\\obj\\",
+      "projectPath": "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.Domain\\RoomMatch.Domain.csproj",
+      "packagesPath": "C:\\Users\\jeanb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jeanb\\source\\RoomMatch\\RoomMatch.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SESA636891\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jeanb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -97,7 +97,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -106,7 +106,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.Identity.Core 2.2.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "message": "Das Paket \"Microsoft.AspNet.Identity.Core 2.2.4\" wurde nicht mit dem Projektzielframework \"net7.0\", sondern mit \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" wiederhergestellt. Dieses Paket ist mit Ihrem Projekt möglicherweise nicht vollständig kompatibel.",
       "libraryId": "Microsoft.AspNet.Identity.Core",
       "targetGraphs": [
         "net7.0"
