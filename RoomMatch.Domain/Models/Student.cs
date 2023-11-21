@@ -10,10 +10,10 @@ namespace RoomMatch.Domain.Models
   {
     public string Firstname
     {
-<<<<<<< Updated upstream
+
       get { return Get<string>(); }
       set { Set<string>(value); }
-=======
+
         //ToDo: can we group properties like firstname, Lastname, username and age in the class DomainObject??
         public string Firstname
         {
@@ -59,7 +59,7 @@ namespace RoomMatch.Domain.Models
             Gender = gender;
             Major = major;
         }
->>>>>>> Stashed changes
+
     }
     public string Lastname
     {

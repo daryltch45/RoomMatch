@@ -118,4 +118,4 @@ namespace RoomMatch.Domain.Models
             get { return Get<bool>(); }
             set { Set<bool>(value); }
         }
-    }
+   }
