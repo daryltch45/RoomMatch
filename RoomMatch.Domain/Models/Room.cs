@@ -59,9 +59,6 @@ namespace RoomMatch.Domain.Models
           get { return Get<bool>(); }
           set { Set<bool>(value); }
         }
-<<<<<<< Updated upstream
-  }
-=======
 
         //public string StreetAddress
         //{
@@ -87,41 +84,38 @@ namespace RoomMatch.Domain.Models
         //    set { Set<string>(value); }
         //}
 
-        //represents the number of bedrooms
+        // represents the number of bedrooms
         public int NumberOfBedrooms
         {
             get { return Get<int>(); }
             set { Set<int>(value); }
         }
 
-        //represents the number of bathrooms
+        // represents the number of bathrooms
         public int NumberOfBathrooms
         {
             get { return Get<int>(); }
             set { Set<int>(value); }
         }
 
-        //represents the size of the room or apartment in square feet
+        // represents the size of the room or apartment in square feet
         public double SquareFootage
         {
             get { return Get<double>(); }
             set { Set<double>(value); }
         }
 
-        //indicates whether the room or apartment is furnished
+        // indicates whether the room or apartment is furnished
         public bool Furnished
         {
             get { return Get<bool>(); }
             set { Set<bool>(value); }
         }
 
-        //indicates whether utilities (such as electricity, water, gas, internet, etc.) are included in the rent.
+        // indicates whether utilities (such as electricity, water, gas, internet, etc.) are included in the rent.
         public bool UtilitiesIncluded
         {
             get { return Get<bool>(); }
             set { Set<bool>(value); }
         }
-
     }
->>>>>>> Stashed changes
-}
