@@ -6,58 +6,58 @@ using System.Threading.Tasks;
 
 namespace RoomMatch.Domain.Models
 {
-  public  class Room: DomainObject
-  {
-    
-        public int UserId 
+    public class Room : DomainObject
+    {
+
+        public int UserId
         {
-          get { return Get<int>(); }
-          set { Set<int>(value); }
+            get { return Get<int>(); }
+            set { Set<int>(value); }
         }
 
         //The name of the person who have the room?? We already know it because of UserId or Id (DomainObject)??
         public string Name
         {
-          get { return Get<string>(); }
-          set { Set<string>(value); }
+            get { return Get<string>(); }
+            set { Set<string>(value); }
         }
 
         //What do this property?? I don't really understand
         public string Description
         {
-          get { return Get<string>(); }
-          set { Set<string>(value); }
+            get { return Get<string>(); }
+            set { Set<string>(value); }
         }
-         public double Pricepublic
-          {
+        public double Pricepublic
+        {
             get { return Get<double>(); }
             set { Set<double>(value); }
-          }
+        }
         public DateTime MoveInDate
         {
-          get { return Get<DateTime>(); }
-          set { Set<DateTime>(value); }
+            get { return Get<DateTime>(); }
+            set { Set<DateTime>(value); }
         }
         public DateTime MoveOutDate
         {
-          get { return Get<DateTime>(); }
-          set { Set<DateTime>(value); }
+            get { return Get<DateTime>(); }
+            set { Set<DateTime>(value); }
         }
         public bool Available
         {
-          get { return Get<bool>(); }
-          set { Set<bool>(value); }
+            get { return Get<bool>(); }
+            set { Set<bool>(value); }
         }
         public bool AnimalAllow
         {
-          get { return Get<bool>(); }
-          set { Set<bool>(value); }
+            get { return Get<bool>(); }
+            set { Set<bool>(value); }
         }
-        
+
         public bool PlayMusicAllow
         {
-          get { return Get<bool>(); }
-          set { Set<bool>(value); }
+            get { return Get<bool>(); }
+            set { Set<bool>(value); }
         }
 
         //public string StreetAddress
@@ -118,4 +118,5 @@ namespace RoomMatch.Domain.Models
             get { return Get<bool>(); }
             set { Set<bool>(value); }
         }
-   }
+    }
+}

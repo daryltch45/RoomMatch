@@ -8,13 +8,8 @@ namespace RoomMatch.Domain.Models
 {
   public class Student: DomainObject
   {
-    public string Firstname
-    {
-
-      get { return Get<string>(); }
-      set { Set<string>(value); }
-
-        //ToDo: can we group properties like firstname, Lastname, username and age in the class DomainObject??
+   
+//ToDo: can we group properties like firstname, Lastname, username and age in the class DomainObject??
         public string Firstname
         {
             get { return Get<string>(); }
@@ -61,11 +56,6 @@ namespace RoomMatch.Domain.Models
         }
 
     }
-    public string Lastname
-    {
-      get { return Get<string>(); }
-      set { Set<string>(value); }
-    }  
-    
+
   }
-}
+

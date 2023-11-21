@@ -18,3 +18,7 @@ C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Doma
 C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.dll
 C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\refint\RoomMatch.Domain.dll
 C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\RoomMatch.Domain.pdb
+C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\bin\Debug\net7.0\RoomMatch.Domain.deps.json
+C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\bin\Debug\net7.0\RoomMatch.Domain.dll
+C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\bin\Debug\net7.0\RoomMatch.Domain.pdb
+C:\Users\jeanb\source\RoomMatch\RoomMatch.Domain\obj\Debug\net7.0\ref\RoomMatch.Domain.dll
