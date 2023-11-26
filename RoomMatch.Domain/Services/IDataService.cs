@@ -15,5 +15,7 @@ namespace RoomMatch.Domain.Services
     Task<T> Update(int id, T entity);
     Task<bool> Delete(int id);
 
-  }
+   // Retrieves a single entity of type T by a unique property (e.g., username)
+   Task<T> GetByUniqueProperty(string propertyName, object value);
+    }
 }
